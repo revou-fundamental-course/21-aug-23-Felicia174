@@ -1,0 +1,18 @@
+.container{
+    border: 5px solid navy;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.container > div{
+    padding: 5px;
+    text-align: center;
+    font-size: 14sp;
+    color:aliceblue;
+    border: 1px solid;
+    background-color: black;
+}
+
+.logo {
+    margin-right: auto;
+}
